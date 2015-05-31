@@ -13,7 +13,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     
     
     let filemanager = NSFileManager.defaultManager()
-    let filename = ".lukecmd"
+    let filename = ".statuscmd"
     var file: String = ""
     
     let resources = NSBundle.mainBundle().resourcePath
