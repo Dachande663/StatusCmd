@@ -8,6 +8,8 @@ an OS X menu bar app. Use it to display a list of servers, launch common
 commands or whatever else you can think of. It's basic and there's a feature
 list a mile long, but it's out there for anyone else to use.
 
+[Download latest](https://raw.githubusercontent.com/Dachande663/StatusCmd/master/releases/StatusCmd.app.zip)
+
 
 Schema
 ------
