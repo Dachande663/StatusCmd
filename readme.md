@@ -126,15 +126,15 @@ Example
 Wishlist
 --------
 
-[ ] Show json error on decoding
-[ ] Changeable bar icons
-[ ] Extra types of menu items (spark line, colours)
-[ ] Don't rebuild entire menu item every time
-[ ] Watch for changes, don't poll
-[ ] Support multiple source files
-[ ] Support multiple instances with different sources
-[ ] Load path for current user
-[ ] Better command and argument passing
+- [ ] Show json error on decoding
+- [ ] Changeable bar icons
+- [ ] Extra types of menu items (spark line, colours)
+- [ ] Don't rebuild entire menu item every time
+- [ ] Watch for changes, don't poll
+- [ ] Support multiple source files
+- [ ] Support multiple instances with different sources
+- [ ] Load path for current user
+- [ ] Better command and argument passing
 
 
 Changelog
